@@ -16,6 +16,7 @@ Node.js 20 o superior
 - git clone https://github.com/mfuentesfailde/reto2.git
 - cd proyecto
 - npm install
+- npm run tauiri build
 
 ## Ejecucón
 Ejecutar en modo desarrollo:
