@@ -1,27 +1,27 @@
 # HealthSmile-app
 Aplicación de HealthSmile para quue los niños se acostumbren a abrir la boca en eu juego ambientado en Halloween.
 
-##Características
+## Características
 - Crear animaciones
 - Detectat la cara y la boca
 - contar los segundos que tiene la boca abierta
 - Framework Tauri
 
-##Requisitos 
+## Requisitos 
 Windows 10/11, Linux o macOS
 Node.js 20 o superior
 4 GB de RAM
 
-##Instalacción
+## Instalacción
 git clone https://github.com/usuario/proyecto.git
 cd proyecto
 npm install
 
-##Ejecucón
+## Ejecucón
 Ejecutar en modo desarrollo:
 npm run tauri dev
 
-##Autor 
+## Autor 
 María Mercedes Fuentes Faílde 
 UOC Desarrollo de aplicaciones interactivas 
 Octubre 2026
