@@ -22,8 +22,8 @@ Ejecutar en modo desarrollo:
 npm run tauri dev
 
 ## Autor 
-María Mercedes Fuentes Faílde 
-UOC Desarrollo de aplicaciones interactivas 
+María Mercedes Fuentes Faílde -
+UOC Desarrollo de aplicaciones interactivas -
 Octubre 2026
 
 ## Licencia 
