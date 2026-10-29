@@ -13,13 +13,13 @@ Node.js 20 o superior
 4 GB de RAM
 
 ## Instalacción
-git clone https://github.com/usuario/proyecto.git
-cd proyecto
-npm install
+- git clone https://github.com/mfuentesfailde/reto2.git
+- cd proyecto
+- npm install
 
 ## Ejecucón
 Ejecutar en modo desarrollo:
-npm run tauri dev
+- npm run tauri dev
 
 ## Autor 
 María Mercedes Fuentes Faílde -
